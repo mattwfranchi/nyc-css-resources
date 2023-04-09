@@ -3,7 +3,7 @@ Hello! My goal for this repository is to compile a list of resources and dataset
 
 I'll break different categories into different MarkDown pages, which you can navigate to below.
 
-1. [Geographic / GIS Data]()
+1. [Geographic / GIS Data](https://github.com/mattwfranchi/nyc-css-resources/blob/main/Geographic-GIS.md)
 2. Emergency Services Data 
 3. Crime / Policing Data 
 4. Public Transportation Data 
