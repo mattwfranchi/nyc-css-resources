@@ -106,3 +106,38 @@ This dataset contains the boundaries of hurricane evacuation zones in New York C
 - **Data Formats:** GeoJSON, Shapefile
 - **Period of Coverage:** Updated regularly
 - **Dataset Size:** ~1 MB
+
+### 16. [NYC Green Infrastructure](https://data.cityofnewyork.us/Environment/Green-Infrastructure-Data-Sets/5uug-f49n)
+This dataset provides information about green infrastructure locations in New York City, including rain gardens, green roofs, and permeable pavements. It includes data on the infrastructure's type, size, and installation date.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
+
+### 17. [NYC Sidewalk Cafés](https://data.cityofnewyork.us/Business/Sidewalk-Caf-Licenses-and-Applications/qcdj-rwhu)
+This dataset contains the locations of sidewalk cafés in New York City. It includes information about the café's name, address, and license status.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
+
+### 18. [NYC Tree Census](https://data.cityofnewyork.us/Environment/2015-Street-Tree-Census-Tree-Data/pi5s-9p35)
+This dataset provides information on over 600,000 street trees in New York City from the 2015 Street Tree Census. It includes data on tree species, diameter, condition, and location.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** 2015
+- **Dataset Size:** ~80 MB
+
+### 19. [NYC Public Recycling Bins](https://data.cityofnewyork.us/Environment/Public-Recycling-Bins/sxx4-xhzg)
+This dataset contains the locations of public recycling bins in New York City. It includes information about the bin's address, type, and sponsor.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
+
+### 20. [NYC Rat Sightings](https://data.cityofnewyork.us/Health/Rat-Sightings/3q43-55fe)
+This dataset provides information on rat sightings reported to the NYC Department of Health and Mental Hygiene. It includes data on the sighting's location, date, and status.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~15 MB
