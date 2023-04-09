@@ -72,3 +72,37 @@ This dataset provides the boundaries of New York City's 59 community districts, 
 - **Period of Coverage:** Updated regularly
 - **Dataset Size:** ~1 MB
 
+### 11. [NYC Neighborhood Tabulation Areas (NTAs)](https://data.cityofnewyork.us/City-Government/Neighborhood-Tabulation-Areas-NTA-/cpf4-rkhq)
+This dataset contains the boundaries of Neighborhood Tabulation Areas (NTAs) in New York City. NTAs are aggregations of census tracts that are subsets of NYC's community districts and provide a way to analyze neighborhood-level data.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~2 MB
+
+### 12. [NYC Public School Locations](https://data.cityofnewyork.us/Education/School-Point-Locations/jfju-ynrr)
+This dataset provides point locations of all public schools in New York City, including primary, middle, and high schools. It includes information about the school's name, type, and district.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
+
+### 13. [NYC Wi-Fi Hotspot Locations](https://data.cityofnewyork.us/City-Government/NYC-Wi-Fi-Hotspot-Locations/yjub-udmw)
+This dataset contains the locations of public Wi-Fi hotspots in New York City. It includes information about the provider, location type, and accessibility features.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~5 MB
+
+### 14. [NYC Landmarks](https://data.cityofnewyork.us/Housing-Development/Landmarks/78dh-3ptz)
+This dataset provides the locations and information about individual landmarks and historic districts in New York City. It includes data on the landmark's name, type, and designation date.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
+
+### 15. [NYC Hurricane Evacuation Zones](https://data.cityofnewyork.us/Public-Safety/Hurricane-Evacuation-Zones-/gi9d-wtrm)
+This dataset contains the boundaries of hurricane evacuation zones in New York City. It includes information about the zone's risk level and the facilities located within each zone.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
