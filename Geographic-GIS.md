@@ -2,23 +2,73 @@
 
 This page contains a list of geographic and GIS datasets about New York City that can be used for computational social science projects. These datasets include various geospatial data formats, such as shapefiles, GeoJSON, and raster files, providing a wealth of spatial data for analysis and visualization.
 
-### NYC Open Data - GIS Data
+### 1. [NYC Open Data](https://opendata.cityofnewyork.us/)
+NYC Open Data is a comprehensive resource that provides access to thousands of New York City datasets. It includes data on various topics, such as demographics, education, transportation, and more. The datasets are available in multiple formats, including CSV, GeoJSON, and Shapefile.
 
-NYC Open Data provides access to various GIS datasets related to the city, such as administrative boundaries, land use, zoning, and more. This platform is an essential starting point for anyone looking to analyze NYC geospatial data.
+- **Data Formats:** CSV, GeoJSON, Shapefile
+- **Period of Coverage:** Varies by dataset
+- **Dataset Size:** Varies by dataset
 
-- Data format: Shapefile, GeoJSON, KML
-- Link: [NYC Open Data - GIS Data](https://data.cityofnewyork.us/browse?category=GIS+Data)
+### 2. [NYC PLUTO Data](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)
+The Primary Land Use Tax Lot Output (PLUTO) dataset includes extensive land use and geographic data at the tax lot level. It contains information about zoning, building class, and ownership for every borough in NYC.
 
-### NYC Department of City Planning - Bytes of the Big Apple
+- **Data Formats:** CSV, Shapefile
+- **Period of Coverage:** Updated annually
+- **Dataset Size:** ~3 GB (across all boroughs)
 
-Bytes of the Big Apple is a collection of geospatial datasets maintained by the NYC Department of City Planning. The datasets include street centerlines, address points, building footprints, and more.
+### 3. [NYC Building Footprints](https://data.cityofnewyork.us/Housing-Development/Building-Footprints/nqwf-w8eh)
+This dataset contains the polygon outlines of every building in New York City. It is derived from various sources, including aerial imagery and building construction records.
 
-- Data format: Shapefile, GeoJSON
-- Link: [Bytes of the Big Apple](https://www1.nyc.gov/site/planning/data-maps/open-data.page)
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 GB
 
-### NYC Street Tree Map
+### 4. [NYC Street Centerline (CSCL)](https://data.cityofnewyork.us/City-Government/NYC-Street-Centerline-CSCL-/exjm-f27b)
+The Citywide Street Centerline (CSCL) dataset contains information about all streets in New York City. It includes street names, types, widths, and other relevant attributes.
 
-The NYC Street Tree Map is an interactive map that provides detailed information about NYC's street trees. The data can be downloaded and used for various analyses, such as environmental or urban planning studies.
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~400 MB
 
-- Data format: CSV, JSON, GeoJSON
-- Link: [NYC Street Tree Map](https://tree-map.nycgovparks.org)
+### 5. [NYC Subway Entrances](https://data.cityofnewyork.us/Transportation/Subway-Entrances/drex-xx56)
+This dataset contains the locations of all subway entrances in New York City. It includes information about the entrance type, route, and accessibility features.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~3 MB
+
+### 6. [NYC Parks Properties](https://data.cityofnewyork.us/Recreation/New-York-City-Parks-Properties/8hup-7p35)
+This dataset provides the boundaries and information about New York City parks, playgrounds, and other properties managed by the NYC Department of Parks & Recreation.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~20 MB
+
+### 7. [NYC Bicycle Routes](https://data.cityofnewyork.us/Transportation/Bicycle-Routes/7vsa-caz7)
+This dataset contains the spatial data of New York City's bike lanes and routes. It includes information about the type and length of each route, as well as the year it was established.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~3 MB
+
+### 8. [NYC Taxi Zones](https://data.cityofnewyork.us/Transportation/NYC-Taxi-Zones/tqmj-j8zm)
+This dataset includes the boundaries of taxi zones in New York City, which are used to analyze taxi trip data. It covers all five boroughs and includes information about zone names and groupings.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~10 MB
+
+### 9. [NYC Census Tracts](https://data.cityofnewyork.us/City-Government/Census-Tracts-2010-Census-/v2h8-6mxf)
+This dataset contains the boundaries of census tracts in New York City, as defined by the US Census Bureau for the 2010 Census. Census tracts are small statistical subdivisions used for demographic analysis.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** 2010 Census
+- **Dataset Size:** ~10 MB
+
+### 10. [NYC Community Districts](https://data.cityofnewyork.us/City-Government/Community-Districts/yfnk-k7r4)
+This dataset provides the boundaries of New York City's 59 community districts, which are the smallest administrative divisions within the city. It includes information about the district's borough and name.
+
+- **Data Formats:** GeoJSON, Shapefile
+- **Period of Coverage:** Updated regularly
+- **Dataset Size:** ~1 MB
+
