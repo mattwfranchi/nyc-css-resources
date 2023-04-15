@@ -1,5 +1,5 @@
-# NYC Public Data Sources for Computational Social Science 
-Hello! My goal for this repository is to compile a list of resources and datasets describing some component of New York City (NYC) that can be used for computational social science projects. NYC is fairly idiosyncratic, even by US standards, for how much data it releases. I hear this all the time, and so this repo is an attempt to actually put everything useful in one place! 
+# New York City (NYC) Public Data Sources for Computational Social Science 
+My goal for this repository is to compile a list of resources and datasets describing some component of New York City (NYC) that can be used for computational social science projects. NYC is fairly idiosyncratic, even by US standards, for how much data it releases. I hear this all the time, and so this repo is an attempt to actually put everything useful in one place! 
 
 I'll break different categories into different MarkDown pages, which you can navigate to below.
 
